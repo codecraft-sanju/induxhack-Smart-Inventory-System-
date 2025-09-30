@@ -12,6 +12,7 @@ AI-powered inventory management system with real-time demand forecasting, anomal
 - Factors considered: seasonal trends, promotions, weather, external data
 - Dynamic safety stock calculation using variability + lead time
 - Anomaly detection for unusual spikes/drops in demand
+- AI/ML model developed by Prateek Lachwani model repo: https://github.com/prateek200445/model_ai_inventory
 
 ### 2. Real-Time Inventory Tracking
 - **IoT Integration**: RFID / Barcode for live warehouse updates
